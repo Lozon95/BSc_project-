@@ -1,7 +1,8 @@
+# State source and unpack package tidyverse 
 source("Funktioner.R")
 library("tidyverse")
-library("rLakeAnalyzer")
 
+# Use the function plot_habitat and do a visual analysis of the results
 # 1 - Ekoln
 # 2 - Skarven
 # 3 - Görväln S
