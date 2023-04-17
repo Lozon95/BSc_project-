@@ -18,6 +18,7 @@ This repository contains the following files:
 - `Clean_and_qualitycheck_BCs/`: Contains the code used to qualitycheck and clean the data in R.
 - `Functions_BCs/`: Contains the code for the functions that was created and used in R.
 - `Analysis_BCs/`: Contains the code for analysis in R.
+- `Photoshop_and_QGIS_Workflow_BCs/`: A pdf with the complete workflow with function - input/output in Ps and QGIS
 - `QGIS_Reclassify_Görveln_BCs/`: Contains the code for reclassification of the station Görveln in QGIS.
 - `QGIS_Reclassify_Skarven_BCS/`: Contains the code for reclassification of the station Skarven in QGIS.
 
