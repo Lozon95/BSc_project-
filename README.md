@@ -22,16 +22,16 @@ This repository contains the following files:
 - `QGIS_Reclassify_Görveln_BCs/`: Contains the code for reclassification of the station Görveln in QGIS.
 - `QGIS_Reclassify_Skarven_BCS/`: Contains the code for reclassification of the station Skarven in QGIS.
 
-###Clean_and_qualitycheck_BCs
+##Clean_and_qualitycheck_BCs
 The code contains indexing, NA clearing and error searching for errors and outliers in the dataset from SLU's environmental monitoring. 
 
-###Functions_BCs
+##Functions_BCs
 The code primarily contains four different functions that are used to split cleaned data from SLU Environmental Monitoring into a list of data frames for each station and date. The list is then used to loop through the data frames and plot oxygen and temperature profiles along with the habitat boundaries for the vendace. The loop also calculates total habitat thickness for each station and date and visualises the upper and lower habitat boundaries.  
 
-###Analysis_BCs
+##Analysis_BCs
 The code only contains input during the use of "Functions_BCs"
 
-###QGIS_Reclassify_Görveln_BCs and QGIS_Reclassify_Skarven_BCS
+##QGIS_Reclassify_Görveln_BCs and QGIS_Reclassify_Skarven_BCS
 The code reclassifies an array (raster) in QGIS and assigns each depth value in a depth DEM its corresponding habitat thickness based on the analysis from R.  
 
 ## Observe! 
